@@ -128,14 +128,14 @@ SELECT name AS person_name, 'Reader' AS role FROM Readers;
 Описание:
 Этот запрос объединяет таблицы Books и Authors по полю author_id и выводит название книги и имя автора.
 
-#9. Демонстрация работы CASE
+# 9. Демонстрация работы CASE
 
 ![;oje;ngn;](https://github.com/TahirovVA/md/assets/158167377/2cc4cfb3-79a6-4085-8631-1b9c4e865d45)
 
 Описание:
 Этот запрос выводит названия книг и их период публикации, используя условный оператор CASE.
 
-#10. Демонстрация работы WITH
+# 10. Демонстрация работы WITH
 
 ![wjfjwof](https://github.com/TahirovVA/md/assets/158167377/60fe7e28-c1c4-431a-92c6-636bc56c4788)
 
