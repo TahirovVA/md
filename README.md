@@ -89,6 +89,7 @@ SELECT name AS person_name, 'Reader' AS role FROM Readers;
 
 # 6.1. Вложенный запрос в SELECT + описание
 ![egfeg](https://github.com/TahirovVA/md/assets/158167377/c5180e7f-c7f9-42a7-9afb-8ccda81b2b06)
+
 Описание:
 Этот запрос выводит имена авторов и количество их книг, используя вложенный запрос для подсчета книг.
 
@@ -114,8 +115,10 @@ SELECT name AS person_name, 'Reader' AS role FROM Readers;
 
 # 7.3. Функции смещения + описание результирующей таблицы
 ![phiwhwig](https://github.com/TahirovVA/md/assets/158167377/c085523c-9385-40cd-bcf4-715ff9406e7e)
+
 Описание:
 Этот запрос выводит названия книг и название следующей книги по году публикации.
+
 #8. Демонстрация работы JOIN'ов
 8.1. INNER JOIN + описание
 ![wp[ojghg](https://github.com/TahirovVA/md/assets/158167377/942053f8-5ec8-4921-9a31-d0a86022e089)
