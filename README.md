@@ -120,7 +120,7 @@ SELECT name AS person_name, 'Reader' AS role FROM Readers;
 Описание:
 Этот запрос выводит названия книг и название следующей книги по году публикации.
 
-#8. Демонстрация работы JOIN'ов
+# 8. Демонстрация работы JOIN'ов
 # 8.1. INNER JOIN + описание
 
 ![wpojghg](https://github.com/TahirovVA/md/assets/158167377/942053f8-5ec8-4921-9a31-d0a86022e089)
