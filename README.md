@@ -66,5 +66,4 @@ SELECT name AS person_name, 'Author' AS role FROM Authors
 UNION
 SELECT name AS person_name, 'Reader' AS role FROM Readers;
 ```
-![union](![image](https://github.com/TahirovVA/md/assets/158167377/e4c9884a-be46-4669-8c76-ec99ab652143)
-)
+![union](https://github.com/TahirovVA/md/assets/158167377/e4c9884a-be46-4669-8c76-ec99ab652143)
