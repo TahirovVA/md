@@ -65,3 +65,5 @@
 SELECT name AS person_name, 'Author' AS role FROM Authors
 UNION
 SELECT name AS person_name, 'Reader' AS role FROM Readers;
+
+![image](https://github.com/TahirovVA/md/assets/158167377/b9b1ec5f-5bdc-429c-a373-b9d4983655fb)
