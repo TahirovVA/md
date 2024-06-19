@@ -108,7 +108,7 @@ SELECT name AS person_name, 'Reader' AS role FROM Readers;
 Этот запрос выводит имена авторов и общее количество авторов.
 
 #7.2. Ранжирующие функции + описание результирующей таблицы
-![[jqf;hof](https://github.com/TahirovVA/md/assets/158167377/6885ae19-facf-4633-91a3-09ec14a6d73d)
+![jqf;hof](https://github.com/TahirovVA/md/assets/158167377/6885ae19-facf-4633-91a3-09ec14a6d73d)
 
 Описание:
 Этот запрос выводит названия книг и их ранг (порядковый номер) по году публикации.
