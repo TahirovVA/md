@@ -66,4 +66,14 @@ SELECT name AS person_name, 'Author' AS role FROM Authors
 UNION
 SELECT name AS person_name, 'Reader' AS role FROM Readers;
 ```
+Описание результирующей таблицы:
+Этот запрос объединяет имена авторов и читателей в одну таблицу с указанием их роли.
+
 ![union](https://github.com/TahirovVA/md/assets/158167377/e4c9884a-be46-4669-8c76-ec99ab652143)
+
+# 4  Демонстрация работы функции ORDER BY + описание результирующей таблицы
+
+![ob](https://github.com/TahirovVA/md/assets/158167377/1e8ca0b8-3bce-4b99-a8d1-7635caeabea8)
+
+Описание результирующей таблицы:
+Этот запрос выбирает названия книг и годы их публикации, отсортированные по убыванию года публикации.
